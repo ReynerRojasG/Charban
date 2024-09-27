@@ -18,24 +18,3 @@ public:
 	void exitGame();
 	void selectOption();
 };
-/*
-void initializeMap(std::string FileName, FileManager flm, ListMap& map) {
-
-	}
-
-	void newGame(int levelNum, std::vector<char> p_Movements, bool restartMode) {
-
-	}
-
-	void reloadGame() {
-
-	}
-
-	void exitGame() {
-
-	}
-
-	void selectOption() {
-		
-	}
-*/
