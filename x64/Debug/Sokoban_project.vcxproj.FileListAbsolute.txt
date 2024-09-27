@@ -1,0 +1,5 @@
+C:\Users\Reiner\source\repos\Sokoban_project\x64\Debug\Sokoban_project.exe
+C:\Users\Reiner\Downloads\Sokoban+Archivos_project\Sokoban+Archivos_project\Sokoban_project\x64\Debug\Sokoban_project.exe
+C:\Users\Reiner\Downloads\Sokoban_project + levels\Sokoban_project + box fixed\Sokoban_project\x64\Debug\Sokoban_project.exe
+C:\Users\Reiner\Downloads\CharBan-BetaFinal\Sokoban_project\x64\Debug\Sokoban_project.exe
+C:\Users\Reiner\Downloads\CharBan-Deluxe\Sokoban_project\x64\Debug\Sokoban_project.exe
